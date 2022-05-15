@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS port_db;
+CREATE DATABASE port_db;
