@@ -1,0 +1,12 @@
+.ct-text{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+li{
+    list-style: none;
+}
+
+nav a{
+    font-size: 20px;
+}
